@@ -1,4 +1,3 @@
-#- src: git@github.com:kost2191/docker-role.git
-- src: https://github.com/kost2191/docker-role.git
+- src: https://github.com/OlgaKochneva/ansible-primitive-apache-role
   scm: git
   version: master
